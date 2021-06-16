@@ -1,4 +1,5 @@
-# Detect-Fake-News-
+# Detect-Fake-News
+A porject for Learning.
 ## Data set
 
 The data comes from Kaggle, you can download it here:
